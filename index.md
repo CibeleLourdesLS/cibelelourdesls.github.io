@@ -32,7 +32,7 @@ Criando **minha**, _página_, or ~~principal~~.
 * Email (cibelelourdes@gmail.com)  
 * Instagram ()  
 * Facebook ()  
-[![](facebook.png)](https://www.facebook.com/cibele.loudes)  
+[![](facebook.jpg)](https://www.facebook.com/cibele.loudes)  
 
 ***
 
