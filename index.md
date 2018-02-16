@@ -6,9 +6,9 @@ Criando **minha**, _página_, or ~~principal~~.
 
 # Quem sou eu?
 
-Cibele Lourdes  
-Aluna de Programação de Jogos Digitais, IFRN Campus Ceará-Mirim.  
-18 years  
+* Cibele Lourdes  
+* Aluna de Programação de Jogos Digitais, IFRN Campus Ceará-Mirim.  
+* 18 years  
 
 # Portifólio
 
