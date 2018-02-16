@@ -4,9 +4,11 @@ layout: default
 
 Criando **minha**, _página_, or ~~principal~~.
 
-# Quem sou eu
+# Quem sou eu?
 
-Alulinda de jogos aprendendo a fazer um portifólio com o prof. Marcelo.
+Cibele Lourdes
+Aluna de Programação de Jogos Digitais, IFRN Campus Ceará-Mirim.
+18 years
 
 # Portifólio
 
