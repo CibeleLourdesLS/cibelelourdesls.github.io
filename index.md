@@ -30,9 +30,8 @@ Criando **minha**, _página_, or ~~principal~~.
 # Contatos  
 
 * Email (cibelelourdes@gmail.com)  
-* Instagram ()  
-* Facebook ()  
-[![](facebook.jpg)](https://www.facebook.com/cibele.loudes)  
+* Instagram ()    
+* [![](facebook.jpg)](https://www.facebook.com/cibele.loudes)  
 
 ***
 
