@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Criando **minha**, _página_, or ~~principal~~.
+
 
 # Quem sou eu?
 
