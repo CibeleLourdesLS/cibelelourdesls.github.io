@@ -9,6 +9,7 @@ Criando **minha**, _página_, or ~~principal~~.
 * Cibele Lourdes  
 * Aluna de Programação de Jogos Digitais, IFRN Campus Ceará-Mirim.  
 * 18 years  
+* Cover da MC Loma  
 
 # Portifólio
 
