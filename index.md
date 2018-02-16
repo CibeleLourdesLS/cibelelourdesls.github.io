@@ -12,7 +12,9 @@ Criando **minha**, _página_, or ~~principal~~.
 
 # Portifólio
 
-## Games
+## Games  
+
+* Criações em conjunto.  
 
 [El Cuerpo] (https://karlagabriella.github.io/El%20Cuerpo/)
 
