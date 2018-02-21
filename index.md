@@ -17,7 +17,7 @@ layout: default
 
 * Criações em conjunto.  
 
-[![]((https://karlagabriella.github.io/El%20Cuerpo/)
+[![](imagem4.png)](https://karlagabriella.github.io/El%20Cuerpo/)
 
 ## Artes
 
