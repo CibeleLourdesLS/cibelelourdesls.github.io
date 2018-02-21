@@ -17,8 +17,8 @@ layout: default
 
 * Criações em conjunto.  
 
-[![](imagem4.png)](https://karlagabriella.github.io/El%20Cuerpo/)   
-[!][](imagem3.png)](https://karlagabriella.github.io/LabyrinthFoodChain/)   
+[ ![](imagem4.png)](https://karlagabriella.github.io/El%20Cuerpo/)   
+[ !][](imagem3.png)](https://karlagabriella.github.io/LabyrinthFoodChain/)   
 
 ## Artes
 
