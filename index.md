@@ -19,13 +19,12 @@ layout: default
 
 [ ![](imagem4.png)](https://karlagabriella.github.io/El%20Cuerpo/)   
 [ ![](imagem3.png)](https://karlagabriella.github.io/LabyrinthFoodChain/)   
+![] (Mockup.png)  
 
 ## Artes
 
 * Pixel
 
-![CATANDDOG]
-![GROUND]
 ## Projetos  
 
 # Contatos  
