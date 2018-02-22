@@ -9,7 +9,7 @@ layout: default
 * Cibele Lourdes  
 * Aluna de Programação de Jogos Digitais, IFRN Campus Ceará-Mirim.  
 * 18 years  
-* Cover da MC Loma  
+* Luanete   
 
 # Portifólio
 
