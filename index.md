@@ -5,7 +5,7 @@ layout: default
 
 
 # Quem sou eu?
-  
+![](bele.jpg)    
 
 * Cibele Lourdes  
 * Aluna de Programação de Jogos Digitais, IFRN Campus Ceará-Mirim.  
