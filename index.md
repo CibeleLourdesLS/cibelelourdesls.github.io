@@ -29,8 +29,6 @@ layout: default
 * Bactérias  
 ![](Bac1.png)            ![](Bac2.png) 
 
-* Personagem  
-![](parado (1).png)  
 
 ## Empresas Fictícias  
 ![](logolivro1.png)         ![](logo.png)  
