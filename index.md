@@ -28,14 +28,14 @@ layout: default
 
 * Bacteria   
 
-## Projetos  
+# Projetos  
 * Mystery Adventure  
 ![](Mockup.png) 
 
 * #PraVCComunidade 
 * A Visibilidade do Invisivel  
 
-## Influence Map  
+# Influence Map  
 ![](Influence.png)  
 
 
