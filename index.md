@@ -32,11 +32,12 @@ layout: default
 * Mystery Adventure  
 ![](Mockup.png) 
 
+* #PraVCComunidade 
+* A Visibilidade do Invisivel  
+
 ## Influence Map  
 ![](Influence.png)  
 
-* #PraVCComunidade 
-* A Visibilidade do Invisivel  
 
 # Contatos  
 
