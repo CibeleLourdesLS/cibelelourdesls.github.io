@@ -20,7 +20,7 @@ layout: default
 [ ![](imagem4.png)](https://karlagabriella.github.io/El%20Cuerpo/)   
 * Labyrinth Food Chain  
 [ ![](imagem3.png)](https://karlagabriella.github.io/LabyrinthFoodChain/)  
-* Bower Game
+* Bower Game  
 [ ![](Jogo4.png)](https://karlagabriella.github.io/New%20project/)  
   
 
