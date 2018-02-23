@@ -34,7 +34,8 @@ layout: default
 * Influence Map  
 ![](Influence Map Cibele.png)  
 
-* #PraVCComunidade
+* #PraVCComunidade 
+* A Visibilidade do Invisivel  
 
 # Contatos  
 
