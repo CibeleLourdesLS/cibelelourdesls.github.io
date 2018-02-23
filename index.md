@@ -30,9 +30,10 @@ layout: default
 
 ## Projetos  
 * Mystery Adventure  
-![](Mockup.png)  
-* Influence Map  
-![](Influence Map Cibele.png)  
+![](Mockup.png) 
+
+## Influence Map  
+![]()  
 
 * #PraVCComunidade 
 * A Visibilidade do Invisivel  
