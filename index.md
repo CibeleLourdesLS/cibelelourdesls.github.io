@@ -21,7 +21,7 @@ layout: default
 * Labyrinth Food Chain  
 [ ![](imagem3.png)](https://karlagabriella.github.io/LabyrinthFoodChain/)  
 * Bower Game
-[! [](Jogo4.png)](https://karlagabriella.github.io/New%20project/)  
+[ ![](Jogo4.png)](https://karlagabriella.github.io/New%20project/)  
   
 
 ## Artes
