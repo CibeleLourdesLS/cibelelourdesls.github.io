@@ -35,9 +35,9 @@ layout: default
 
 * Email (cibelelourdes@gmail.com)  
 
-[ ![](pe.png)](https://br.pinterest.com/cibelelourdes/)  
-[ ![](ig.png)](https://www.instagram.com/eucih_ls/)  
-[ ![](fb.png)](https://www.facebook.com/cibele.loudes)  
+[ ![](pe.png)](https://br.pinterest.com/cibelelourdes/)
+[ ![](ig.png)](https://www.instagram.com/eucih_ls/)
+[ ![](fb.png)](https://www.facebook.com/cibele.loudes)
 
 ***
 
