@@ -27,10 +27,10 @@ layout: default
 ## Artes
 
 * Bactérias  
-![](bac1.png)            ![](bac2.png) 
+![](Bac1.png)            ![](Bac2.png) 
 
 * Personagem  
-![](parado1.png)  
+![](parado(1).png)  
 
 ## Empresas Fictícias  
 ![](logolivro1.png)         ![](logo.png)  
