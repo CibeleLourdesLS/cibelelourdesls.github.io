@@ -42,7 +42,11 @@ layout: default
 
 # Influence Map  
 ![](Influence.png)  
-# Pessoais  
+## Pessoais  
+* Aula de campo em Macau/RN, da disciplina de Biologia  
+![](turma.png)  
+* Com minha amiga Karla no cinema  
+[ ![](karla.png)](https://karlagabriella.github.io/)  
 
 # Contatos  
 
