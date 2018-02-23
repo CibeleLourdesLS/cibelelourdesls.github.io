@@ -27,7 +27,8 @@ layout: default
 ## Artes
 
 * Bactérias  
-![](bac1.png)            ![](bac2.png)  
+![](bac1.png)            ![](bac2.png) 
+
 * Personagem  
 ![](parado1.png)  
 
