@@ -39,7 +39,7 @@ layout: default
 ![](Influence.png)  
 
 # Empresas Fictícias  
-![](Jubeka.png)  
+![](Jubeka.png)         ![](logo.png)  
 
 # Contatos  
 
