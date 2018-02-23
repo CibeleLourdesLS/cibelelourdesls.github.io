@@ -28,8 +28,8 @@ layout: default
 
 * Bacteria   
 
-# Empresas Fictícias  
-![](logolivro1.png)         ![](.png)  
+## Empresas Fictícias  
+![](logolivro1.png)         ![](logo.png)  
 
 # Projetos  
 * Mystery Adventure  
