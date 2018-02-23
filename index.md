@@ -28,6 +28,9 @@ layout: default
 
 * Bacteria   
 
+# Empresas Fictícias  
+![](Jubeka.png)         ![](.png)  
+
 # Projetos  
 * Mystery Adventure  
 ![](Mockup.png) 
@@ -37,9 +40,6 @@ layout: default
 
 # Influence Map  
 ![](Influence.png)  
-
-# Empresas Fictícias  
-![](Jubeka.png)         ![](.png)  
 
 # Contatos  
 
