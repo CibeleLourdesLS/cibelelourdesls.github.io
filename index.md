@@ -30,7 +30,7 @@ layout: default
 ![](Bac1.png)            ![](Bac2.png) 
 
 * Personagem  
-![](parado(1).png)  
+![](parado (1).png)  
 
 ## Empresas Fictícias  
 ![](logolivro1.png)         ![](logo.png)  
