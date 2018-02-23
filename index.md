@@ -26,7 +26,7 @@ layout: default
 ## Artes
 
 * Bacteria 
-![](bac.png)  
+![](bac18.png)  
 
 ## Projetos  
 
