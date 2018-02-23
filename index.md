@@ -20,15 +20,16 @@ layout: default
 [ ![](imagem4.png)](https://karlagabriella.github.io/El%20Cuerpo/)   
 * Labyrinth Food Chain  
 [ ![](imagem3.png)](https://karlagabriella.github.io/LabyrinthFoodChain/)  
-* Mystery Adventure  
-![](Mockup.png)  
+  
 
 ## Artes
 
-* Bacteria 
-![](Bac18.png)
+* Bacteria   
 
 ## Projetos  
+* Mystery Adventure  
+![](Mockup.png)  
+* #PraVCComunidade
 
 # Contatos  
 
