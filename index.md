@@ -12,9 +12,7 @@ layout: default
 * 18 years  
 * Luanete   
 
-# Portifólio
-
-## Games  
+# Games  
 
 * Criações em conjunto.  
 
@@ -27,7 +25,8 @@ layout: default
 
 ## Artes
 
-* Pixel
+* Bacteria 
+![](bac.png)  
 
 ## Projetos  
 
