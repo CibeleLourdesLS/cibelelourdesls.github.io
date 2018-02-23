@@ -27,7 +27,7 @@ layout: default
 ## Artes
 
 * Bactérias  
-![](Bac1.png)            ![](Bac2.png) 
+![](Bac1.png)         ![](Bac2.png) 
 
 
 ## Empresas Fictícias  
@@ -43,16 +43,19 @@ layout: default
 # Influence Map  
 ![](Influence.png)  
 ## Pessoais  
-* Aula de campo em Macau/RN, da disciplina de Biologia  
+* Aula de campo em Macau/RN, da disciplina de Biologia.   
 ![](turma.png)  
-* Com minha amiga Karla no cinema  
+* Aquele cineminha.    
 [ ![](karla.png)](https://karlagabriella.github.io/)  
+* Festa da melhor com os melhores.
+
+
 
 # Contatos  
 
 * Email (cibelelourdes@gmail.com)  
 
-* Segue lá
+* Segue lá  
 [ ![](pe.png)](https://br.pinterest.com/cibelelourdes/)
 [ ![](ig.png)](https://www.instagram.com/eucih_ls/)
 [ ![](fb.png)](https://www.facebook.com/cibele.loudes)
