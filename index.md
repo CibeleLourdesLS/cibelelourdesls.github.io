@@ -38,6 +38,8 @@ layout: default
 # Influence Map  
 ![](Influence.png)  
 
+# Empresas Fictícias  
+![](Jubeka.png)  
 
 # Contatos  
 
