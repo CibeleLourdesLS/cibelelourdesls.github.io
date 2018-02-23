@@ -29,7 +29,7 @@ layout: default
 * Bacteria   
 
 # Empresas Fictícias  
-![](Jubeka.png)         ![](.png)  
+![](logolivro1.png)         ![](.png)  
 
 # Projetos  
 * Mystery Adventure  
