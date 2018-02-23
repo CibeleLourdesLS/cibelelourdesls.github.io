@@ -5,10 +5,9 @@ layout: default
 
 
 # Quem sou eu? 
-_Cibele Lourdes  
-
 ![](bele.png)  
-  
+
+* Cibele Lourdes
 * Aluna de Programação de Jogos Digitais, IFRN Campus Ceará-Mirim.  
 * 18 years  
 * Luanete   
