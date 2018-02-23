@@ -33,7 +33,7 @@ layout: default
 ![](Mockup.png) 
 
 ## Influence Map  
-![]()  
+![](Influence.png)  
 
 * #PraVCComunidade 
 * A Visibilidade do Invisivel  
