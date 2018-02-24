@@ -48,8 +48,8 @@ layout: default
 * Aquele cineminha.    
 [ ![](karla.png)](https://karlagabriella.github.io/)  
 * Festa da melhor com os melhores.
-![](T|ereza.png)  
-* Canaval IFRN.  
+![](Tereza.png)  
+* Carnaval IFRN.  
 [ ![](cat.png)](https://joaothiago06.github.io/)  
 
 
