@@ -10,6 +10,8 @@ layout: default
 * Cibele Lourdes
 * Aluna de Programação de Jogos Digitais, IFRN Campus Ceará-Mirim.  
 * 18 years  
+* Gosto de música e de dançar.  
+* Empoderada  
 * Luanete   
 
 # Games  
@@ -63,14 +65,5 @@ layout: default
 [ ![](ig.png)](https://www.instagram.com/eucih_ls/)
 [ ![](fb.png)](https://www.facebook.com/cibele.loudes)
 
-***
-
-** negrito  
-_ itálico  
-~~ riscado  
-3* linha horizontal (barra)  
-#s uma ou mais hashtags criam capitulos ou sub  
-*s asteriscos criam lista não cordenada  
-1s númesros criam lista ordenada  
-
+***  
 * * *
