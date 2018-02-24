@@ -12,7 +12,8 @@ layout: default
 * 18 years  
 * Gosto de música e de dançar.  
 * Empoderada  
-* Luanete   
+* Luanete  
+ "Ser feliz sem motivo é a mais autêntica forma de felicidade."  
 
 # Games  
 
