@@ -52,7 +52,7 @@ layout: default
 * Carnaval IFRN.  
 [ ![](cat.png)](https://joaothiago06.github.io/)  
 
-
+** Mais informações, contatos abaixo:
 # Contatos  
 
 * Email (cibelelourdes@gmail.com)  
