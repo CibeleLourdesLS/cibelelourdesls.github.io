@@ -38,7 +38,7 @@ layout: default
 ![](garca.png)        ![](ratinho.png)  
 
 ## Empresas Fictícias  
-![](logolivro1.png)      ![](logo.png)    ![](cafe.png)  
+![](logolivro1.png)      ![](logo.png)    
 
 # Projetos  
 * #PraVCComunidade 
