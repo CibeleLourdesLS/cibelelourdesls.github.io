@@ -13,7 +13,8 @@ layout: default
 * Gosto de música e de dançar.  
 * Empoderada  
 * Luanete  
-# "Ser feliz sem motivo é a mais autêntica forma de felicidade."  
+
+# "Ser feliz sem motivo é a mais autêntica forma de felicidade."   
 
 # Games  
 
