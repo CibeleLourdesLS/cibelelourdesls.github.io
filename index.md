@@ -48,7 +48,9 @@ layout: default
 * Aquele cineminha.    
 [ ![](karla.png)](https://karlagabriella.github.io/)  
 * Festa da melhor com os melhores.
-
+![](tereza.png)  
+* Canaval IFRN.
+[ ![](cat.png)](https://joaothiago06.github.io/)  
 
 
 # Contatos  
