@@ -31,7 +31,7 @@ layout: default
 * Bactérias  
 ![](Bac1.png)         ![](Bac2.png) 
 * Outros  
-![](garça.png)        ![](ratinho.png)  
+![](garca.png)        ![](ratinho.png)  
 
 ## Empresas Fictícias  
 ![](logolivro1.png)         ![](logo.png)  
@@ -55,7 +55,7 @@ layout: default
 * Carnaval IFRN.  
 [ ![](cat.png)](https://joaothiago06.github.io/)  
 
-** Mais informações, contatos abaixo:
+* Mais informações, contatos abaixo:
 # Contatos  
 
 * Email (cibelelourdes@gmail.com)  
