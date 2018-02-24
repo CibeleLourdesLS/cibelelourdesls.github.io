@@ -24,12 +24,14 @@ layout: default
 [ ![](imagem3.png)](https://karlagabriella.github.io/LabyrinthFoodChain/)  
 * Bowel Game  
 [ ![](imagem1.png)](https://karlagabriella.github.io/New%20project/)  
-  
+* Mystery Adventure  
+[ ![](Mockup.png)](https://www.youtube.com/watch?v=C-RhFRgGHBo)  
+
 
 ## Artes
 
 * Bactérias  
-![](Bac1.png)         ![](Bac2.png) 
+![](Bac1.png)      ![](Bac2.png) 
 * Outros  
 ![](garca.png)        ![](ratinho.png)  
 
@@ -37,9 +39,6 @@ layout: default
 ![](logolivro1.png)         ![](logo.png)  
 
 # Projetos  
-* Mystery Adventure  
-[ ![](Mockup.png)](https://www.youtube.com/watch?v=C-RhFRgGHBo)  
-
 * #PraVCComunidade 
 * A Visibilidade do Invisivel  
 
